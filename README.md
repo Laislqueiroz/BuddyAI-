@@ -1,13 +1,8 @@
-# BuddyAI 🧠 
-Smart assistant for language learning.
+# DISCOVER-ING-AI 🧠 
+AI tests.
 
-## My first AI project, a smart language learning assistant, capable of answering questions based on study materials sent by you (PDF or TXT), making translations and summaries.
+## My first AI project and tests.
 
 ## 🚧 Em desenvolvimento
-This project is part of a 90-day AI programming challenge
+This project is part of a 122-day AI programming challenge
 
-## 📦 Tecnologias
-
-- Python
-- Streamlit
-- OpenAI API
